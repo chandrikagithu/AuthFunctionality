@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.navigate-links {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+}
+.link-nav {
+  margin: 10px;
+}
